@@ -1,0 +1,9 @@
+name: DeadPool
+main: felony13twelve\deadpool\DeadPool
+api:
+  - 1.0.0
+  - 2.0.0
+  - 3.0.0
+  - 3.0.1
+version: 1.0.0
+author: felony13twelve
